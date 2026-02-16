@@ -119,14 +119,22 @@ You need to have Python installed on your computer. If you don't have it, downlo
 
 ## 📈 Results
 
-*(Add your results here after running the models)*
+- **Best Model**: Random Forest
+- **Accuracy**: 81.5%
+- **Training Time**: ~2 seconds
 
-- **Best Model**: [Model name]
-- **Accuracy**: [Your accuracy percentage]%
-- **Key Findings**: 
-  - Women had higher survival rates
-  - First-class passengers survived more
-  - Children had better chances of survival
+### Key Findings:
+- **Gender was critical**: Women survived at 74% vs men at 19%
+- **Class mattered**: 1st class (63% survival) > 2nd class (47%) > 3rd class (24%)
+- **Children survived more**: 59% for kids vs 38% for adults
+- **Family size effect**: Small families did better than solo travelers or large groups
+
+**Most Important Features** (by model importance):
+1. Sex (Gender)
+2. Pclass (Passenger Class)
+3. Fare (Ticket Price)
+4. Age
+5. Embarked Port
 
 ## 🧠 What I Learned
 
@@ -163,5 +171,6 @@ This is a learning project, but suggestions are welcome! Feel free to:
 ## 📝 License
 
 This project is open source and available for anyone to learn from.
+
 
 
