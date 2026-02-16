@@ -3,6 +3,25 @@
 ## 📖 About This Project
 
 This is my machine learning project that predicts whether passengers survived the Titanic disaster. This project is perfect for beginners who want to learn about data science and machine learning!
+## ⚠️ About the Dataset
+
+**Important to Know:**
+
+This dataset contains information about **1,309 passengers** from the Titanic, which is a subset of the full historical record (~2,224 people including crew). 
+
+**Key Limitations:**
+- **Crew members excluded** - Only passenger data is included
+- **Missing values** - About 20% of ages and 77% of cabin numbers are missing
+- **Cleaned data** - This is a simplified version created for learning, based on historical records from Encyclopedia Titanica and other sources
+- **Survival rate differs** - Dataset shows ~38% survival (passengers only) vs ~32% historical survival rate (all people aboard)
+
+Despite these limitations, this dataset is excellent for learning machine learning fundamentals and is one of the most popular datasets in data science education.
+
+**Sources:** 
+- Kaggle Titanic Competition
+- Encyclopedia Titanica
+- "Titanic: Triumph and Tragedy" by Eaton & Haas (1994)
+  
 
 ### What is the Titanic Dataset?
 
@@ -144,4 +163,5 @@ This is a learning project, but suggestions are welcome! Feel free to:
 ## 📝 License
 
 This project is open source and available for anyone to learn from.
+
 
