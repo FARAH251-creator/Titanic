@@ -1,4 +1,5 @@
- Titanic Survival Prediction Project
+Titanic Survival Prediction Project
+
 📖 About This Project
 This is my machine learning project that predicts whether passengers survived the Titanic disaster. This project is perfect for beginners who want to learn about data science and machine learning!
 
@@ -21,7 +22,7 @@ Sources:
 - [Encyclopedia Titanica](https://www.encyclopedia-titanica.org/)
 - "Titanic: Triumph and Tragedy" by Eaton & Haas (1994)
 
- What is the Titanic Dataset?
+What is the Titanic Dataset?
 On April 15, 1912, the RMS Titanic sank after hitting an iceberg during its first voyage. Out of 2,224 passengers and crew, more than 1,500 people died. This tragic event is now used as a learning dataset to predict survival based on passenger information like age, gender, ticket class, and more.
 
  🎯 Project Goal
@@ -157,7 +158,7 @@ The chart above shows which passenger features had the most impact on survival p
 - [Scikit-learn Documentation](https://scikit-learn.org/) - ML algorithms reference
 - [Pandas Documentation](https://pandas.pydata.org/) - Data manipulation guide
 
- 🤝 Contributing
+🤝 Contributing
 This is a learning project, but suggestions are welcome! Feel free to:
 1. Fork the repository
 2. Create a new branch
