@@ -110,14 +110,12 @@ python titanic_analysis.py
 | Random Forest | 82.1% ⭐ |
 | SVM | 67.0% |
 
-Best Model: Random Forest with 82.1% accuracy**
+Best Model: Random Forest with 82.1% accuracy
 
 Feature Importance (Random Forest)
 
 <img width="800" height="500" alt="feature_importance" src="https://github.com/user-attachments/assets/0e51ed2c-b52f-4d89-b5dc-49926d5c1e4b" />
 
-
-![Feature Importance](feature_importance.png)
 
 The chart above shows which passenger features had the most impact on survival prediction:
 
