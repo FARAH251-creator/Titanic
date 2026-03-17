@@ -49,9 +49,9 @@ Titanic/
 │
 ├── titanic_analysis.py   # Main analysis script (run this!)
 ├── notebooks/            # Jupyter notebooks with detailed analysis
-│   ├── data_exploration.ipynb
-│   ├── data_preprocessing.ipynb
-│   └── model_training.ipynb
+│   └──titanic_analysis.ipynb
+│   
+│    
 │
 ├── data/                 # Dataset files
 │   ├── train.csv         # Training data (891 passengers)
