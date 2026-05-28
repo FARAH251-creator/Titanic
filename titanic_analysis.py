@@ -1,4 +1,4 @@
-# Test script - add at top of titanic_analysis.py
+# Test script 
 import sys
 print("Python Path:", sys.executable)
 print("Virtual Environment Active:", 'titanic_env' in sys.executable)
