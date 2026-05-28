@@ -136,14 +136,14 @@ The chart above shows which passenger features had the most impact on survival p
 - Age played a role: Children were prioritized during evacuation
 - Wealth indicator: Higher ticket fares correlated strongly with survival, likely due to cabin proximity to lifeboats
 
- 🧠 What I Learned
+  What I Learned
 - How to work with real-world messy data (handling missing values, encoding categorical features)
 - Different ways to visualize data using Matplotlib and Seaborn
 - How machine learning models make predictions using different algorithms
 - The importance of data cleaning and preprocessing
 - How to compare and evaluate different models using accuracy metrics
 
- 🔮 Future Improvements
+  Future Improvements
 - [ ] Try more advanced models (XGBoost, Neural Networks)
 - [ ] Perform deeper feature engineering
 - [ ] Create a web app for interactive predictions
