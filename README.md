@@ -1,6 +1,6 @@
 Titanic Survival Prediction Project
 
-📖 About This Project
+About This Project
 This is my machine learning project that predicts whether passengers survived the Titanic disaster. This project is perfect for beginners who want to learn about data science and machine learning!
 
 ⚠️ About the Dataset
@@ -25,14 +25,14 @@ Sources:
 What is the Titanic Dataset?
 On April 15, 1912, the RMS Titanic sank after hitting an iceberg during its first voyage. Out of 2,224 passengers and crew, more than 1,500 people died. This tragic event is now used as a learning dataset to predict survival based on passenger information like age, gender, ticket class, and more.
 
- 🎯 Project Goal
+ Project Goal
 The main goal is to build a machine learning model that can predict if a passenger survived or not based on their characteristics. This helps us learn:
 - How to clean and prepare data
 - How to explore data to find patterns
 - How to build and compare different machine learning models
 - How to evaluate how well our models work
 
- 🛠️ Technologies Used
+  Technologies Used
 
 | Technology | Purpose |
 |-----------|---------|
@@ -43,7 +43,7 @@ The main goal is to build a machine learning model that can predict if a passeng
 | Seaborn | Statistical visualizations |
 | Scikit-learn | Machine learning algorithms |
 
- 📁 Project Structure
+  Project Structure
 ```
 Titanic/
 │
@@ -62,7 +62,7 @@ Titanic/
 └── README.md              # This file!
 ```
 
-🚀 Getting Started
+Getting Started
 
 Prerequisites
 You need Python 3.x installed. Download it from [python.org](https://www.python.org/).
@@ -94,7 +94,7 @@ pip install -r requirements.txt
 python titanic_analysis.py
 ```
 
-📊 Results
+Results
 
  Dataset Overview
 -Total passengers:891
@@ -150,13 +150,13 @@ The chart above shows which passenger features had the most impact on survival p
 - [ ] Improve accuracy with cross-validation and hyperparameter tuning
 - [ ] Add more visualizations (survival by class, age distribution, etc.)
 
- 📚 Resources for Beginners
+  Resources for Beginners
 - [Kaggle Titanic Competition](https://www.kaggle.com/c/titanic) - The original competition
 - [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Free online book
 - [Scikit-learn Documentation](https://scikit-learn.org/) - ML algorithms reference
 - [Pandas Documentation](https://pandas.pydata.org/) - Data manipulation guide
 
-🤝 Contributing
+ Contributing
 This is a learning project, but suggestions are welcome! Feel free to:
 1. Fork the repository
 2. Create a new branch
